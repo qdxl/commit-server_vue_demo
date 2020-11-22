@@ -608,7 +608,7 @@ commander@^2.20.0:
 
 commit-server@^0.0.22:
   version "0.0.22"
-  resolved "https://registry.npmjs.org/commit-server/-/commit-server-0.0.22.tgz#857359ff8a055cc0235a2ae638bca9a499e05632"
+  resolved "https://mirrors.huaweicloud.com/repository/npm/commit-server/-/commit-server-0.0.22.tgz#857359ff8a055cc0235a2ae638bca9a499e05632"
   integrity sha512-BoF896RoM5XUZWnzP/vPoq6qII3X+6R6NOtPkkLl4YETxKgrpDUMzprdwvBs/tTI0PaZGlH5q1lDffEoBhqoAw==
   dependencies:
     async "^3.2.0"
