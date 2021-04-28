@@ -606,10 +606,10 @@ commander@^2.20.0:
   resolved "https://registry.npm.taobao.org/commander/download/commander-2.20.3.tgz?cache=0&sync_timestamp=1598576050587&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcommander%2Fdownload%2Fcommander-2.20.3.tgz#fd485e84c03eb4881c20722ba48035e8531aeb33"
   integrity sha1-/UhehMA+tIgcIHIrpIA16FMa6zM=
 
-commit-server@^0.0.22:
-  version "0.0.22"
-  resolved "https://mirrors.huaweicloud.com/repository/npm/commit-server/-/commit-server-0.0.22.tgz#857359ff8a055cc0235a2ae638bca9a499e05632"
-  integrity sha512-BoF896RoM5XUZWnzP/vPoq6qII3X+6R6NOtPkkLl4YETxKgrpDUMzprdwvBs/tTI0PaZGlH5q1lDffEoBhqoAw==
+commit-server@^0.0.23:
+  version "0.0.23"
+  resolved "https://mirrors.huaweicloud.com/repository/npm/commit-server/-/commit-server-0.0.23.tgz#50079d96b52000a5651c17997c67426876fc9596"
+  integrity sha512-lrJQ2aBGuiLcJd8bpXvf3xgIJulgDdZgpzOMVq6uoorDBrZFy3btVo8NsxVW58hgy/l5hWcCKQaby4kAOHpkGw==
   dependencies:
     async "^3.2.0"
     body-parser "^1.19.0"
